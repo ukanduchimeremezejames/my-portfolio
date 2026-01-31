@@ -21,7 +21,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--  <a href="https://twitter.com/ukanduchimeremezejames" target="blank"><img align="center" src="https://raw.githubusercontent.com/ukanduchimeremezejames/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ukanduchimeremezejames" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/james-king/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ukanduchimeremezejames/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivani-verma-088b03194/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ukandu-chimeremeze-james-83b57a2b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ukanduchimeremezejames/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ukandu-chimeremeze-james-83b57a2b3/" height="30" width="40" />LinkedIn: @ Ukandu Chimeremeze James</a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
